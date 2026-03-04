@@ -169,7 +169,7 @@ public class GameArena extends JPanel implements Runnable, KeyListener, MouseLis
     * initiates a "close" on this frame.
     * from the swing.JFrame class
 	* 
-	* @param oepration the operation which should be performed when the
+	* @param operation the operation which should be performed when the
     *        user closes the frame
     */
 	public void setDefaultCloseOperation(int operation)
